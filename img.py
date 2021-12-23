@@ -14,3 +14,4 @@ from autocrop import Cropper
 
 
 Image = st.file_uploader('Upload your portrait here',type=['jpg','jpeg','png'])
+return Image
